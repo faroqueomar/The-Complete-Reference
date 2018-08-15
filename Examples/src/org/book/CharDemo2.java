@@ -1,5 +1,11 @@
 package org.book;
 
+/***
+ * page 38
+ * @author Admin
+ *
+ */
+
 public class CharDemo2 {
 
 	public static void main(String[] args) {
