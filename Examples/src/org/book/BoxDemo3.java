@@ -1,4 +1,5 @@
 package org.book;
+
 /***
  * page 113
  * @author Admin
@@ -27,8 +28,10 @@ public class BoxDemo3 {
 		
 		mybox1.volume();
 		
+		
 		// display volume of second box
 		
 		mybox2.volume();
+		
 	}
 }
