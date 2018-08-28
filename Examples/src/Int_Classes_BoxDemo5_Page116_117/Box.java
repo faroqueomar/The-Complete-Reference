@@ -1,4 +1,4 @@
-package Int_Classes_Box_Page116_117;
+package Int_Classes_BoxDemo5_Page116_117;
 /***
  * page 116-117
  * @author Admin
